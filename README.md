@@ -9,7 +9,7 @@ I am a unit testing enthusiast. I recently migrated from Mocha to Jest
 ## 🔗 Links
 
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/danieljamesanderson/)
-<a>
+<a href="https://danieljanderson.github.io/">
 <img alt="portfolio" src="portfolio.png" width="auto" height="60">
 </a>
 
