@@ -4,13 +4,14 @@ I am passionate about Software Development. It allows me to combine my love for 
 
 I am a unit testing enthusiast. I recently migrated from Mocha to Jest
 
-My resume is here:
+[My Resume](resume.pdf)
 
 ## 🔗 Links
 
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/danieljamesanderson/)
-
-# [:globe_with_meridians:](https://danieljanderson.github.io/)
+<a>
+<img alt="portfolio" src="portfolio.png" width="auto" height="60">
+</a>
 
 ## 🛠 Skills
 
