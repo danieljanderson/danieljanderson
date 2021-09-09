@@ -4,10 +4,9 @@ I am passionate about Software Development. It allows me to combine my love for 
 
 I am a unit testing enthusiast. I recently migrated from Mocha to Jest
 
-[My Resume](resume.pdf)
-
 ## 🔗 Links
 
+<a href="resume.pdf"><img alt="resume" src="resume_icon.png" width="auto" height="60"></a>
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/danieljamesanderson/)
 <a href="https://danieljanderson.github.io/">
 <img alt="portfolio" src="portfolio.png" width="auto" height="60">
