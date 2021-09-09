@@ -9,7 +9,8 @@ My resume is here:
 ## 🔗 Links
 
 [![Linkedin](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/danieljamesanderson/)
-[:globe_with_meridians:](https://danieljanderson.github.io/)
+
+# [:globe_with_meridians:](https://danieljanderson.github.io/)
 
 ## 🛠 Skills
 
