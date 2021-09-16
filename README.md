@@ -1,8 +1,6 @@
 # :desktop_computer: Daniel Anderson
 
-I am passionate about Software Development. It allows me to combine my love for figuring out how things work with my love of learning.
-
-I am a unit testing enthusiast. I recently migrated from Mocha to Jest
+I am passionate about software development. I am a big advocate for unit tests. My out-of-the-box thinking allows me to come up with creative solutions that not only saved a company over $100,000 but improved the quality of life for the customer retention team.
 
 ## 🔗 Links
 
